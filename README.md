@@ -4,7 +4,7 @@
              
 ---
                          
-## 📌 Project Summary                           
+## 📌 Project Summary                                                                         
 
 Welcome to my **Indian Retail Superstore Sales & Profit Analysis** project! 
 
