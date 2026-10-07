@@ -1,10 +1,10 @@
-# 🇮🇳 Indian Retail Superstore - Sales & Profit Analysis
+# Indian Retail Superstore - Sales & Profit Analysis
 
 **Data Analyst Portfolio Project** | Created by a Data Analyst Fresher
 
 ---
 
-## 📌 Project Summary
+## 📌 Project Summary                           
 
 Welcome to my **Indian Retail Superstore Sales & Profit Analysis** project! 
 
